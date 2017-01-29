@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 3aa83a09231908c4e9891bc2825a2e14
+timeCreated: 1485574938
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID107
+    100004: ID120
+    100006: ID133
+    100008: ID146
+    100010: ID154
+    100012: ID162
+    100014: ID170
+    100016: ID178
+    100018: ID186
+    100020: ID194
+    100022: ID202
+    100024: ID215
+    100026: ID22
+    100028: ID223
+    100030: ID231
+    100032: ID239
+    100034: ID247
+    100036: ID30
+    100038: ID43
+    100040: ID56
+    100042: ID64
+    100044: ID72
+    100046: ID80
+    100048: ID88
+    100050: ID94
+    100052: instance_0
+    100054: instance_1
+    100056: instance_2
+    100058: palmabusgooglezee
+    100060: palmabuszee_1
+    100062: PB_1
+    100064: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: ID107
+    400004: ID120
+    400006: ID133
+    400008: ID146
+    400010: ID154
+    400012: ID162
+    400014: ID170
+    400016: ID178
+    400018: ID186
+    400020: ID194
+    400022: ID202
+    400024: ID215
+    400026: ID22
+    400028: ID223
+    400030: ID231
+    400032: ID239
+    400034: ID247
+    400036: ID30
+    400038: ID43
+    400040: ID56
+    400042: ID64
+    400044: ID72
+    400046: ID80
+    400048: ID88
+    400050: ID94
+    400052: instance_0
+    400054: instance_1
+    400056: instance_2
+    400058: palmabusgooglezee
+    400060: palmabuszee_1
+    400062: PB_1
+    400064: skp_camera_Last_Saved_SketchUp_View
+    2300000: ID107
+    2300002: ID120
+    2300004: ID133
+    2300006: ID146
+    2300008: ID154
+    2300010: ID162
+    2300012: ID170
+    2300014: ID178
+    2300016: ID186
+    2300018: ID194
+    2300020: ID202
+    2300022: ID215
+    2300024: ID22
+    2300026: ID223
+    2300028: ID231
+    2300030: ID239
+    2300032: ID247
+    2300034: ID30
+    2300036: ID43
+    2300038: ID56
+    2300040: ID64
+    2300042: ID72
+    2300044: ID80
+    2300046: ID88
+    2300048: ID94
+    2300050: PB_1
+    3300000: ID107
+    3300002: ID120
+    3300004: ID133
+    3300006: ID146
+    3300008: ID154
+    3300010: ID162
+    3300012: ID170
+    3300014: ID178
+    3300016: ID186
+    3300018: ID194
+    3300020: ID202
+    3300022: ID215
+    3300024: ID22
+    3300026: ID223
+    3300028: ID231
+    3300030: ID239
+    3300032: ID247
+    3300034: ID30
+    3300036: ID43
+    3300038: ID56
+    3300040: ID64
+    3300042: ID72
+    3300044: ID80
+    3300046: ID88
+    3300048: ID94
+    3300050: PB_1
+    4300000: PB_1
+    4300002: ID22
+    4300004: ID30
+    4300006: ID43
+    4300008: ID56
+    4300010: ID64
+    4300012: ID72
+    4300014: ID80
+    4300016: ID88
+    4300018: ID94
+    4300020: ID107
+    4300022: ID120
+    4300024: ID133
+    4300026: ID146
+    4300028: ID154
+    4300030: ID162
+    4300032: ID170
+    4300034: ID178
+    4300036: ID186
+    4300038: ID194
+    4300040: ID202
+    4300042: ID215
+    4300044: ID223
+    4300046: ID231
+    4300048: ID239
+    4300050: ID247
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
